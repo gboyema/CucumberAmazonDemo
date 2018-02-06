@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: stepDefinitions.TestRunner2
+-------------------------------------------------------------------------------
+Tests run: 12, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 138.806 sec <<< FAILURE! - in stepDefinitions.TestRunner2
+Then selected product should contains "sfskdh"(Scenario: Search for product and verify Product Detail page failed)  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.AssertionError
+
+Scenario: Search for product and verify Product Detail page failed  Time elapsed: 0.006 sec  <<< FAILURE!
+java.lang.AssertionError
+
